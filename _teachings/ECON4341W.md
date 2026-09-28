@@ -14,4 +14,4 @@ Check the workshop material [here](https://github.com/Yiyuan0820/ECON4341W) if y
 ## Office Hours
 - Friday 2 PM to 5 PM
 - You can sign up for a 20-minute slot [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2BbFFYv1llyZPC0PwVYa0VRXsIfXT2QCTgaolosp4U-pqS3jIXXA8YfDwmfXOR5RM4731MLhNs).
-- The default is to meet me at <a href='#'>Hanson 3-107</a>. If you really need a zoom accommodation, please email me after signing up for a slot.
+- The default is to meet me at <a href='#'>Hanson 3-107</a>. If you require accommodation for the Zoom option, please email me after signing up for a slot.
