@@ -13,8 +13,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<div style="height: 1rem;"></div>
-
 Welcome! My research interests include labor economics, family economics, search and matching, and development economics.
 
 Currently, I am studying households' consumption risk-sharing behavior, specifically the relationship between labor supply elasticity and partiality of insurance.
