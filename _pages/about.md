@@ -6,7 +6,7 @@ subtitle: Ph.D. student in Economics, <a href='#'>University of Minnesota</a>
 
 profile:
   align: right
-  image: "Yiyuan He_2.JPG"
+  image: prof_pic.JPG
   image_circular: false # crops the image to make it circular
  
 selected_papers: false # includes a list of papers marked as "selected={true}"
