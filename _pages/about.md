@@ -15,6 +15,6 @@ social: false # includes social icons at the bottom of the page
 
 Welcome! My research interests include labor economics, family economics, search and matching, and development economics.
 
-Currently, I am studying households' consumption risk-sharing behavior, specifically the relationship between labor supply elasticity and partiality of insurance.
+Currently, I am studying households' consumption risk-sharing behavior, specifically the relationship between labor supply elasticity and partiality of insurance against labor income risk.
 
 You can find my CV [here](assets/pdf/Yiyuan_He_CV.pdf).
