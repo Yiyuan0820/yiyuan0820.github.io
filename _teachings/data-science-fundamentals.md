@@ -1,97 +1,17 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
-term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
-schedule:
-  - week: 1
-    date: Feb 5
-    topic: Introduction to Data Science
-    description: Overview of the data science workflow and key concepts.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+title: ECON 4341W
+description: Economics of Poverty and Income Inequality
+instructor: Prof. Fahima Aziz
+course_id: econ-4341w
 
-  - week: 2
-    date: Feb 12
-    topic: Data Collection and APIs
-    description: Methods for collecting data through APIs, web scraping, and databases.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 3
-    date: Feb 19
-    topic: Data Cleaning and Preprocessing
-    description: Techniques for handling missing values, outliers, and data transformation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
-
-  - week: 4
-    date: Feb 26
-    topic: Exploratory Data Analysis
-    description: Descriptive statistics, visualization, and pattern discovery.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 5
-    date: Mar 4
-    topic: Statistical Analysis
-    description: Hypothesis testing, confidence intervals, and statistical inference.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 6
-    date: Mar 11
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
 ---
 
-## Course Overview
+## Workshops
 
-This course provides a comprehensive introduction to data science principles and practices. Students will:
+Check the workshop material [here](https://github.com/Yiyuan0820/ECON4341W) if you need help with your project.
 
-- Learn the end-to-end data science workflow
-- Gain practical experience with data manipulation tools
-- Develop skills in data visualization and communication
-- Apply statistical methods to derive insights from data
-
-## Prerequisites
-
-- Basic programming knowledge (preferably in Python)
-- Introductory statistics
-- Comfort with basic algebra
-
-## Textbooks
-
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
-
-## Grading
-
-- Assignments: 50%
-- Project: 40%
-- Participation: 10%
+## Office Hours
+- Friday 2 PM to 5 PM
+- You can sign up for a 20-minute slot [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2BbFFYv1llyZPC0PwVYa0VRXsIfXT2QCTgaolosp4U-pqS3jIXXA8YfDwmfXOR5RM4731MLhNs).
+- The default is to meet me at <a href='#'>Hanson 3-107</a>. If you really need a zoom accommodation, please email me after signing up for a slot.
